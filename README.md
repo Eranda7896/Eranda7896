@@ -34,6 +34,5 @@ Skills: Java/JS / HTML / CSS
 ![Profile views](https://gpvc.arturio.dev/Eranda7896)  
 
    
-   
  
 
